@@ -59,5 +59,5 @@
 <ul>
   <li><a href="https://www.cursoemvideo.com/">Curso em Vídeo</a></li>
   <li><a href="https://docs.python.org/3/">Python Documentation</a></li>
-  <li><a href="https://www.youtube.com/user/CursoEmVideo">Gustavo Guanabara no YouTube</a></li>
+  <li><a href="https://www.youtube.com/c/CursoemVídeo">Gustavo Guanabara no YouTube</a></li>
 </ul>

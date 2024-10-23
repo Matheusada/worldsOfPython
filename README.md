@@ -1,4 +1,4 @@
-<h1 align="center">Mundo do Python - Curso Python by Gustavo Guanabara</h1>
+<h1 align="center">Mundo I do Python - Curso Python by Gustavo Guanabara</h1>
 
 <p align="center">
   <a href="https://www.cursoemvideo.com/">
